@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ce73873-6a22-4e3a-9e83-8a0eebf4d4de" name="UtmApi">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="192.168.11.74" port="22000" sshConfigId="46d13545-9d7c-4fb0-8054-39f23e2d524e" sshConfig="lex@192.168.11.74:22000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
